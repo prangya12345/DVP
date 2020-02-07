@@ -17,7 +17,7 @@ import com.example.model.Employee;
 
 @RestController
 @RequestMapping("/emp/111111")
-public class EmployeeController {
+public class DvpController {
 	
 	
 	@GetMapping("/employees")
